@@ -37,5 +37,10 @@ INSTALLATION
 - Python 3.8 or higher
 - A **GPU** (recommended for faster inference)
 - CUDA (if using GPU acceleration)
-code google drive link 
+code
+  TO RUN IN JUPYTER NOTEBOOK AND COLLAB
+  I have Documented the code in google doc
+  install the dependencies using !pip install to run in collab
+ google drive link 
 https://docs.google.com/document/d/1b9H9jxD_NP6HwEVPZN380RrA1uci_e_VgVWcOVbWwVE/edit?usp=sharing
+  
